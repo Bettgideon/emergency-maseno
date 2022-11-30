@@ -1,0 +1,39 @@
+
+.login-page {
+  background-color: #ffff;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 10%;
+}
+.login-page-header {
+  background-color: #00a7d0;
+}
+.login-form {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.register-col {
+  text-align: center;
+}
+/* Register page */
+.register-page {
+  background-color: #fff;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 0;
+  margin-bottom: 10%;
+}
+.register-page-header {
+  background-color: #00a7d0;
+}
+.register-form {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.login-col {
+  text-align: center;
+}
